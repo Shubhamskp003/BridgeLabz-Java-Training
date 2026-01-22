@@ -16,7 +16,7 @@ class Task {
 }
 
 // Node class
-class NodeTask {
+class  NodeTask {
     Task data;
     NodeTask next;
 
@@ -26,7 +26,7 @@ class NodeTask {
     }
 }
 
-// Circular Linked List
+// Circular Linkefd List
 class CircularTaskList {
 
     NodeTask head = null;
