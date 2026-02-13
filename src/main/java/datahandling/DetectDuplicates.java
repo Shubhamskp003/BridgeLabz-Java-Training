@@ -7,7 +7,7 @@ import java.util.*;
 public class DetectDuplicates {
     public static void main(String[] args) throws Exception {
 
-        String filePath = "C:\\Users\\akhil\\Downloads\\students.csv";
+        String filePath = "C:\\Users\\Shubham\\Downloads\\students.csv";
         Set<String> ids = new HashSet<>();
 
         try (CSVReader reader = new CSVReader(new FileReader(filePath))) {

@@ -4,7 +4,7 @@ import java.io.*;
 
 public class WriteCSV {
     public static void main(String[] args) {
-        String filePath = "C:\\Users\\akhil\\Downloads\\data.csv";
+        String filePath = "C:\\Users\\Shubham\\Downloads\\data.csv";
 
         try(BufferedWriter bf = new BufferedWriter(new FileWriter(filePath))){
             bf.write("ID, Name, Age, Marks\n");

@@ -7,7 +7,7 @@ import java.util.List;
 public class UpdateSalary {
     public static void main(String[] args) throws Exception {
 
-        String filepath = "C:\\Users\\akhil\\Downloads\\data.csv";
+        String filepath = "C:\\Users\\Shubham\\Downloads\\data.csv";
         List<String> updatedData = new ArrayList<>();
 
         try (BufferedReader br = new BufferedReader(

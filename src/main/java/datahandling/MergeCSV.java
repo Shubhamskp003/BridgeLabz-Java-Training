@@ -7,9 +7,9 @@ import java.util.*;
 public class MergeCSV {
     public static void main(String[] args) throws Exception {
 
-        String file1 = "C:\\Users\\akhil\\Downloads\\students1.csv";
-        String file2 = "C:\\Users\\akhil\\Downloads\\students2.csv";
-        String output = "C:\\Users\\akhil\\Downloads\\merged.csv";
+        String file1 = "C:\\Users\\Shubham\\Downloads\\students1.csv";
+        String file2 = "C:\\Users\\Shubham\\Downloads\\students2.csv";
+        String output = "C:\\Users\\Shubham\\Downloads\\merged.csv";
 
         Map<String, String[]> map = new HashMap<>();
 

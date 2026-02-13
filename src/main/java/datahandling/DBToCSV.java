@@ -14,7 +14,7 @@ public class DBToCSV {
         ResultSet rs = stmt.executeQuery("SELECT * FROM employees");
 
         CSVWriter writer = new CSVWriter(
-                new FileWriter("C:\\Users\\akhil\\Downloads\\report.csv"));
+                new FileWriter("C:\\Users\\Shubham\\Downloads\\report.csv"));
 
         writer.writeNext(new String[]{"Employee ID","Name","Department","Salary"});
 

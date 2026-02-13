@@ -4,7 +4,7 @@ import java.io.*;
 
 public class ReadAndCnt {
     public static void main(String[] args) {
-        String filePath = "C:\\Users\\akhil\\Downloads\\data.csv";
+        String filePath = "C:\\Users\\Shubham\\Downloads\\data.csv";
 
         try(BufferedReader bf = new BufferedReader(new FileReader(filePath))){
             bf.readLine();

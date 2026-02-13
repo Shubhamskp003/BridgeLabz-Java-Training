@@ -24,7 +24,7 @@ public class ConvertCSVToObject {
 
     public static void main(String[] args) throws Exception {
 
-        String filePath = "C:\\Users\\akhil\\Downloads\\students.csv";
+        String filePath = "C:\\Users\\shubham\\Downloads\\students.csv";
         List<Student> students = new ArrayList<>();
 
         try (CSVReader reader = new CSVReader(new FileReader(filePath))) {
