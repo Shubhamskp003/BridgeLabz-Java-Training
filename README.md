@@ -1,3 +1,4 @@
+# BridgeLabz Java Training – Daily Progress Log
 • 08-Dec-2025 (Monday): Set up the complete Java development environment including VS Code, Visual Studio, IntelliJ IDEA, Eclipse, and Git.
 
 • 09-Dec-2025 (Tuesday): Studied Java fundamentals — What is Java, JDK, JVM, JRE, features of Java, data types, variables, and basic syntax.
