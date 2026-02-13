@@ -1,5 +1,3 @@
-# Daily Progress Log — BridgeLabz Java Training
-
 • 08-Dec-2025 (Monday): Set up the complete Java development environment including VS Code, Visual Studio, IntelliJ IDEA, Eclipse, and Git.
 
 • 09-Dec-2025 (Tuesday): Studied Java fundamentals — What is Java, JDK, JVM, JRE, features of Java, data types, variables, and basic syntax.
@@ -37,3 +35,43 @@
 • 13-Jan-2026 (Tuesday): Studied Encapsulation, Interface, Abstract Classes, and Polymorphism; submitted practice problems.
 
 • 14-Jan-2026 (Wednesday): Studied Data Structures Introduction & LinkedList; completed LinkedList practice submission.
+
+• 16-Jan-2026 (Friday): Updated git structure and studied stack and queue.
+
+• 17-Jan-2026 (Saturday): Studied and practice sorting algorithms.
+
+• 19-Jan-2026 (Monday): Studied linear search and binary search and Week-2 review is given.
+
+• 20-Jan-2026 (Tuesday): Practice problems on linear search and binary search.
+
+• 21-Jan-2026 (Wednesday): Studied and practice problem on runtime analysis.
+
+• 22-Jan-2026 (Thursday): Completed remaining problems on runtime analysis.
+
+• 23-Jan-2026 (Friday): Completed project till use-case three.
+
+• 24-Jan-2026 (Saturday): Completed project till use-case eight and review done.
+
+• 27-Jan-2026 (Tuesday): Studied and practice some problems on java generics.
+
+• 28-Jan-2026 (Wednesday): Studied and practice some problems on java collections.
+
+• 29-Jan-2026 (Thursday): Completed java generics and started assigned project.
+
+• 30-Jan-2026 (Friday): Give review and completed the project.
+
+• 31-Jan-2026 (Saturday): Studied and practice problems on java iostreams.
+
+• 02-Feb-2026 (Monday): Studied and practice problems on java exception.
+
+• 03-Feb-2026 (Tuesday): Completed remaining problems on java exception.
+
+• 04-Fdb-2026 (Wednesday): Studied and practice problems on java regex.
+
+• 05-Feb-2026 (Thursday): Studied and practice problems on java junit.
+
+• 06-Feb-2026 (Friday): Completed practice problems on java junit and done with review.
+
+• 07-Feb-2026 (Saturday): Session-1 Soft-Skills.
+
+• 09-Feb-2026 (Monday): Studied and practice problems on java8features.
